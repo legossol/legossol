@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+img.shields.io/badge/java-#E9113B?
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=legossol)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
