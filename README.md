@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=legossol)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metleeha&layout=compact&theme=dracula)](https://github.com/legossol)
 
 <!--
 **legossol/legossol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
