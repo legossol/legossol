@@ -1,4 +1,8 @@
 ### Hi there 👋
+hi, I'm Haesol Jang. Just in case, if you have any question about me. Click below button to send an Email.
+&nbsp&nbsp&nbsp&nbsp
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
 
 <p align="center">📚Tech Stack</p>
 
@@ -16,7 +20,12 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
 </p>
-<div align="center">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
-</div>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=legossol)](https://github.com/anuraghazra/github-readme-stats)
+<p>Project Philo_Arte Funding<p>
+![Uploading Philo_arte-indi.gif…]()
+  
+<p>Project Philo_Arte Full-Version<p>
+ 
