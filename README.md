@@ -1,6 +1,6 @@
 ### Hi there 👋
 hi, I'm Haesol Jang. Just in case, if you have any question about me. Click below button to send an Email.
-&nbsp&nbsp&nbsp&nbsp
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
 
@@ -21,11 +21,13 @@ hi, I'm Haesol Jang. Just in case, if you have any question about me. Click belo
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgothf@gmail.com)](mailto:wkdgothf@gmail.com)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=legossol)](https://github.com/anuraghazra/github-readme-stats)
 <p>Project Philo_Arte Funding<p>
-![Uploading Philo_arte-indi.gif…]()
+
+![dum](https://user-images.githubusercontent.com/75191069/121618967-b4b1dc80-caa2-11eb-9cdc-568b36de7b3b.gif)
+
   
 <p>Project Philo_Arte Full-Version<p>
  
+
+![ezgif com-resize](https://user-images.githubusercontent.com/75191069/121620537-7b2ea080-caa5-11eb-8bea-81052a6cf09c.gif)
