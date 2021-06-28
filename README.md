@@ -4,7 +4,6 @@ I am currently trying to upload the results of a team project.
 but, there's some problem between ec2 and tomcat server on mac. I'll keep trying to unsolve this problem.
 fortunatly, I can upload Frontend result on S3 and CloudFront.
 현재 AWS에 올리는 작업을 계속 진행중
-* EC2: EC2는 현재 윈도에서의 작업은 성공하였으나 MAC에서의 연결이 되질 않고있습니다.,
 * S3 :http://kr.legossol.api.s3-website.ap-northeast-2.amazonaws.com/ ,
 * cloudFront:http://d2pjf3k701q4ai.cloudfront.net
 
